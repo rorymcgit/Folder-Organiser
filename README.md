@@ -9,4 +9,4 @@ Instructions for use:
     
 - Hit 'Organise Folder' to create folders and move files into corresponding folder.
 
-    nb. Metadata XMls will be renamed, removing appended 1/2/3 etc.
+    nb. Metadata XMLs will be renamed, removing appended sequential characters.
