@@ -1,4 +1,4 @@
-# iTunesTV-Folder-Organiser
+# iTunes TV Folder Organiser
 
 This application is for use with the iTunes TV packaging workflow.
 
