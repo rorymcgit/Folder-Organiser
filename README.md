@@ -12,7 +12,7 @@ Instructions for use:
     nb. Metadata XMLs will be renamed, removing each appended sequential digit.
  
 
-
+---
 I used:
 - Python 2.7
 - wxPython (a GUI framework)
