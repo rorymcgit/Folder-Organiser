@@ -18,4 +18,4 @@ I used:
 - wxPython (a GUI framework)
 
 
-Written as I learnt my first programming language. Basic principles such as DRY, encapsulation and even consistent naming conventions were not adhered to.
+Written as I learnt my first programming language. Basic principles such as SRP and DRY were not adhered to.
