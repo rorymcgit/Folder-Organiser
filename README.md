@@ -16,3 +16,6 @@ Instructions for use:
 I used:
 - Python 2.7
 - wxPython (a GUI framework)
+
+
+Written as I learnt my first programming language. Basic principles such as DRY, encapsulation and even consistent naming conventions were not adhered to.
