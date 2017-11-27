@@ -2,6 +2,7 @@
 
 This application is for use with the iTunes TV packaging workflow.
 
+Requires compilation with py2app or similar.
 
 Instructions for use:
 
